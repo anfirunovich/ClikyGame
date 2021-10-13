@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clicky  game", "clicky  game\clicky  game.csproj", "{9007175D-EFE9-4CA1-8C7E-B8CAACD81822}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9007175D-EFE9-4CA1-8C7E-B8CAACD81822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9007175D-EFE9-4CA1-8C7E-B8CAACD81822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9007175D-EFE9-4CA1-8C7E-B8CAACD81822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9007175D-EFE9-4CA1-8C7E-B8CAACD81822}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A7124BD-7A76-4A3E-A7DB-228AD52F0BCE}
+	EndGlobalSection
+EndGlobal
